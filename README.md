@@ -1,12 +1,10 @@
-#[Repositório Público do meu perfil](https://github.com/pedrohaherzog-2005)
+# [Repositório Público do meu perfil](https://github.com/pedrohaherzog-2005)
 
 Este repositório servirá para que eu possa gerenciar alguns projetos ligados a ele. Ele também servirá para demonstrar para outras pessoas a minha evolução com alguns desses projetos e o meu aperfeiçoamento com eles.
 
 E neste campo aqui vão estar alguns dos projetos que eu já fiz com o que eu fiz na lista de exercícios que tem nesse repositório:
 
 LINKS:
-
-* [Também vou colocar o link para o meu perfil no Github:](https://github.com/pedrohaherzog-2005)
 
 * [Android:](https://pedrohaherzog-2005.github.io/site-android/)
 
