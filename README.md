@@ -20,5 +20,7 @@ OBS: Nesse último link de projeto, a minha tela de login ficou com algumas cois
 
 E também eu vou adicionar um link para acessar o canal do CursoemVídeo, para vocês verem de qual curso são esses projetos:
 
-Canal no YouTube:* https://www.youtube.com/cursoemvideo.
+Canal no YouTube:
+
+* https://www.youtube.com/cursoemvideo.
  
