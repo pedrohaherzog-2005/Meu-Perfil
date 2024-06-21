@@ -1,4 +1,4 @@
-# * [Repositório Público do meu perfil](https://github.com/pedrohaherzog-2005)
+#[Repositório Público do meu perfil](https://github.com/pedrohaherzog-2005)
 
 Este repositório servirá para que eu possa gerenciar alguns projetos ligados a ele. Ele também servirá para demonstrar para outras pessoas a minha evolução com alguns desses projetos e o meu aperfeiçoamento com eles.
 
