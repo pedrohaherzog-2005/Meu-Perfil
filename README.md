@@ -22,5 +22,5 @@ E também eu vou adicionar um link para acessar o canal do CursoemVídeo, para v
 
 Canal no YouTube:
 
-* [CursoemVídeo](https://www.youtube.com/cursoemvideo.)
+* [CursoemVídeo](https://www.youtube.com/cursoemvideo)
  
